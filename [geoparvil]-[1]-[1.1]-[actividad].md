@@ -21,14 +21,12 @@
 
 ```mermaid
 flowchart TD
-    A[Inicio] --> B[Objetivo: ejecutar Windows PowerShell]
-    B --> C{¿Windows con PowerShell instalado?}
-    C -- No --> Z[Fin: no se puede ejecutar como en la actividad]
-    C -- Sí --> D[Abrir menú Inicio]
-    D --> E[Seleccionar opción Ejecutar Win + R]
-    E --> F[En el cuadro Abrir escribir powershell]
-    F --> G[Hacer clic en Aceptar]
-    G --> H[Se abre la ventana de Windows PowerShell]
-    H --> I[Realizar tareas de administración]
-    I --> J[Fin]
+    A[Inicio] --> B[Objetivo ejecutar Windows PowerShell]
+    B --> C[Abrir menú Inicio]
+    C --> D[Seleccionar opción Ejecutar Win + R]
+    D --> E[En el cuadro Abrir escribir powershell]
+    E --> F[Hacer clic en Aceptar]
+    F --> G[Se abre la ventana de Windows PowerShell]
+    G --> H[Realizar tareas de administración]
+    H --> I[Fin]
 ```
