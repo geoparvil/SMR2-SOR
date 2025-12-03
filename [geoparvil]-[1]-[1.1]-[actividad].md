@@ -23,7 +23,7 @@ Microsoft Windows Server 2019 recomienda hardware con ciertas características m
 | Salida estándar | Al menos **Super VGA (1024 x 768)**                                       |
 | Otros           | Red, teclado y ratones compatibles con Microsoft                          |
 
-# Caracteristicas PC para  server 2019:
+# Caracteristicas del PC para windows server 2019:
 
 | Componente      | Requisito                                                                 |
 |-----------------|---------------------------------------------------------------------------|
